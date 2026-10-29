@@ -80,3 +80,8 @@ Helps users monitor their estimated travel expenses, including transportation, a
 The project focuses on designing and developing a smart travel planning website with five main screens: Home, Explore Destinations, Plan My Trip, My Itinerary, and My Budget.
 
 Further development will focus on implementing the frontend, backend, database integration, and intelligent travel planning features.
+## 🎨 UI/UX Design
+
+The user interface for TravelFlow AI is designed using Figma.
+
+**Figma Design:** [View TravelFlow AI UI/UX Design]https://www.figma.com/proto/O4Ir7AU0ochajpv278DDKL/Untitled?node-id=3-910&t=aFRIe60rdTUMyw9O-1
